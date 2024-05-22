@@ -1,0 +1,4 @@
+TIDB_HOSTNAME='xxxxxxx'
+TIDB_USERNAME='xxxxxx.root'
+TIDB_PASSWORD='xxxxxx'
+TIDB_DATABASE_NAME='test'
