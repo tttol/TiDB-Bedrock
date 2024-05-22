@@ -1,4 +1,4 @@
-# TiDB-Bedrock
+#TiDB-Bedrock
 TiDB ServerlessとAmazon Bedrockを使用したRAGアプリケーション
 
 # ローカル環境で検証する場合は、下記の手順で実行してください。
