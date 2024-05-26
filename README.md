@@ -1,5 +1,6 @@
 # TiDB-Bedrock
-TiDB ServerlessとAmazon Bedrockを使用したRAGアプリケーション
+TiDB ServerlessとAmazon Bedrockを使用したRAGアプリケーション  
+Zenn記事へのリンク→[TiDB (Serverless) × Amazon Bedrockで始めるRAGアプリケーション入門！](https://zenn.dev/koiping/articles/a4362c8b1c0ee8)
 
 ## ローカル環境で検証する場合は、下記の手順で実行してください。
 ### 必要なもの
